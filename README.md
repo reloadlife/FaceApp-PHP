@@ -78,11 +78,6 @@ $photoCode = $FaceApp->getFilters(); //returns an array of filters
 	-wave
 	-makeup
 */
-
-
-
-
-
 ```
 
 ### applyFilter
@@ -91,9 +86,9 @@ Get the code of photo has Been uploaded to faceapp servers
 $FaceApp->applyFilter(PHOTO_CODE , SELECTED_FILTER , CROP_FACE_OR_NOT);
 
 //example :
-//PHOTO_CODE : $photoCode
-//SELECTED_FILTER : 'old'
-//CROP_FACE_OR_NOT : true or false
+//PHOTO_CODE(string) : $photoCode
+//SELECTED_FILTER(string) : 'old'
+//CROP_FACE_OR_NOT(bool) : true or false
 ```
 
 ### savePhoto
