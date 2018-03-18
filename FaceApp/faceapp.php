@@ -111,6 +111,9 @@ class FaceApp
                     case 404 :
                         throw new Exception('Filter Not Found!');
                         break;
+                    case 402 :
+                        throw new Exception('Selected Filter Is not free!');
+                        break;
                     default :
                         throw new Exception('Unknown Error...!!');
                 }
