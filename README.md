@@ -1,7 +1,7 @@
 # FaceApp PHP API
 
-Transform your face using Artificial Intelligence with PHP [FaceApp](http://faceapp.com) API
-FaceApp is an [Android](https://play.google.com/store/apps/details?id=io.faceapp) and [iOS](https://itunes.apple.com/app/id1180884341) application.
+Transform your face using Artificial Intelligence with PHP [FaceApp](http://faceapp.com) API<br>
+FaceApp is an [Android](https://play.google.com/store/apps/details?id=io.faceapp) and [iOS](https://itunes.apple.com/app/id1180884341) application.<br>
 This library is an unofficial wrapper to their AI system.
 
 <img src="preview.jpg" width="500" height="367" align="center"/>
