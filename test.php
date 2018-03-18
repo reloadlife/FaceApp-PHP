@@ -1,5 +1,5 @@
 <?php
-require('../FaceApp/faceapp.php');
+require('FaceApp/faceapp.php');
 
 $FaceApp = new FaceApp('test/image.jpg');
 
