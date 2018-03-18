@@ -9,7 +9,7 @@ This library is an unofficial wrapper to their AI system.
 
 ## Requirements
 
-* PHP >= 5.6
+* PHP >= 7.0
 * cURL/PHP
 
 ## Basic usage
